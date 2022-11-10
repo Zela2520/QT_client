@@ -1,0 +1,394 @@
+painter#navbar_groups {
+    background-color: rgba(79, 39, 193, 1);
+    border-radius: 15px;
+}
+
+#first_scroll {
+    margin-left: 50px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    border: none;
+}
+
+#groups_widget_first_scroll_title {
+    background-color: rgba(152, 128, 203, 0.8);
+    border-radius: 50px;
+    width: 1100px;
+    height: 800px;
+}
+
+#second_scroll {
+    margin-right: 50px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    border: none;
+}
+
+#groups_widget_second_scroll_title {
+    background-color: rgba(152, 128, 203, 0.8);
+    border-radius: 50px;
+    width: 1100px;
+    height: 800px;
+}
+
+#friends_widget_scroll_title {
+    background-color: rgba(152, 128, 203, 0.8);
+    width: 1100px;
+    height: 800px;
+}
+
+QLineEdit {
+    width: 200px;
+    height: 50px;
+    padding-left: 10px;
+    font-size: 16px;
+    border: 2px solid purple;
+    border-radius: 15px;
+    background-color: rgba(152, 128, 203, 1);
+}
+
+QPushButton#enter_btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 24px;
+    padding: 0px;
+    background-color: rgba(152, 128, 203, 1);
+}
+
+QPushButton#enter_btn:hover {
+    color: #fff;
+    background: #333;
+}
+
+QPushButton#registration_btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 16px;
+    background: none;
+}
+
+QPushButton#registration_btn:hover {
+    color: rgba(0, 0, 0, 1);
+}
+
+QPushButton#shedule_btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 24px;
+    background: none;
+/*    background-color: rgba(152, 128, 203, 1);*/
+}
+
+QPushButton#shedule_btn:hover {
+    color: #fff;
+}
+
+QPushButton#friends_btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 24px;
+    background: none;
+/*    background-color: rgba(152, 128, 203, 1);*/
+}
+
+QPushButton#friends_btn:hover {
+    color: #fff;
+}
+
+QPushButton#groups_btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 24px;
+    background: none;
+/*    background-color: rgba(152, 128, 203, 1);*/
+}
+
+QPushButton#groups_btn:hover {
+    color: #fff;
+}
+
+QPushButton#settings_btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 24px;
+    background: none;
+/*    background-color: rgba(152, 128, 203, 1);*/
+}
+
+QPushButton#settings_btn:hover {
+    color: #fff;
+}
+
+QPushButton#logout_btn {
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 24px;
+    background: none;
+/*    background-color: rgba(152, 128, 203, 1);*/
+}
+
+QPushButton#logout_btn:hover {
+    color: #fff;
+}
+
+QPushButton#user_avatar_btn {
+    width: 100px;
+    height: 100px;
+    border: none;
+    background-color: none;
+}
+
+/*QPushButton#user_avatar_btn:hover {
+    width: 110px;
+    height: 110px;
+    border-radius: 15px;
+    background-color: black;
+}*/
+
+QPushButton#added_group_btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 22px;
+    background-color: rgba(152, 128, 203, 1);
+}
+
+QPushButton#added_group_btn:hover {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 24px;
+    background-color: rgba(70, 103, 168, 1);
+}
+
+/*QPushButton#user_title_avatar_btn {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: rgba(70, 103, 168, 1);
+    background-color: white;
+}*/
+
+QPushButton#user_title_avatar_btn {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+
+QPushButton#user_title_avatar_btn:hover {
+    width: 110px;
+    height: 110px;
+    border-radius: 15px;
+/*    background-color: rgba(90, 83, 219, 1);*/
+    background-color: black;
+}
+
+QPushButton#group_title_name {
+    text-align: left;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: none;
+}
+
+QPushButton#group_title_name:hover {
+    text-align: left;
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+    background-color: black;
+}
+
+QLabel#groups_description {
+    width: 200px;
+    height: 50px;
+    font-size: 18px;
+    border: none;
+    background-color: none;
+}
+
+QPushButton#modify_group_btn {
+    text-align: left;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: none;
+}
+
+QPushButton#modify_group_btn:hover {
+    text-align: left;
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+    background-color: black;
+}
+
+QPushButton#invite_group_btn {
+    text-align: left;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: none;
+}
+
+QPushButton#invite_group_btn:hover {
+    text-align: left;
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+    background-color: black;
+}
+
+QPushButton#delete_group_btn {
+    text-align: left;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: none;
+}
+
+QPushButton#delete_group_btn:hover {
+    text-align: left;
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+    background-color: black;
+}
+
+/*QWidget#groups_widget_scroll_title {
+    width: 200px;
+    height: 600px;
+}*/
+
+#registrationPage, #friendsPage, #schedulePage {
+        background-color: qlineargradient(spread:pad, x1:0.472174, y1:1, x2:0.472637, y2:0.119318, stop:0 rgba(255, 9, 230, 175), stop:0.487562 rgba(112, 1, 254, 255), stop:0.945274 rgba(177, 155, 205, 255));
+}
+
+#FriendCard {border: 1px solid black;}
+
+
+#searchInput {color: black;}
+
+.FriendCard { border: 1px solid black;
+              max-height: 150px;
+              border-radius: 50px;}
+
+#searchButton {
+    background-color: rgb(212, 215, 219);
+    padding: 10px 80px;
+    font-size: 24px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+#searchButton:hover {
+    background-color: rgb(197, 168, 234);
+}
+
+#searchInput {
+    padding:20px;
+    font-size: 24px;
+    border-radius: 25px;
+}
+
+
+#myScheduleButton, #myScheduleButton, #myGropusButton, #mySettingsButton {
+    background:none;
+    font-size: 40px;
+    border:none;
+}
+
+#myScheduleButton:hover, #myScheduleButton:hover, #myGropusButton:hover, #mySettingsButton:hover {
+    color: white;
+}
+
+#active {
+    background:none;
+    font-size: 40px;
+    border:none;
+    color:rgba(73, 77, 230, 1);
+}
+
+#active:hover {
+    color:white;
+}
+
+#name, #deleteButton {
+    border: none;
+    background: none;
+    font-size: 30px;
+}
+
+#deleteButton {
+    min-height: 45px;
+}
+
+#deleteButton {
+    qproperty-icon:url();
+    qproperty-iconSize: 45px 55px;
+    background-image: url(':/img/my_static/img/detelefriendicon.svg');
+    background-repeat: no-repeat;
+}
+
+#deleteButton:hover {
+    background-image: url(':/img/my_static/img/detelefriendiconhover.svg');
+    background-repeat: no-repeat;}
+
+#optionButton {
+    color: rgba(35, 43, 227, 1);
+    background: none;
+    font-size: 20px;
+    border:none;
+}
+
+QLabel#user_settings {
+    width: 200px;
+    height: 50px;
+    font-size: 26px;
+/*    margin-left: 700px;*/
+    padding: 0px;
+    border: none;
+    background-color: none;
+}
+
+QLabel#header {
+    background-color: none;
+    color: rgba(6, 6, 6, 1);
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+QLineEdit#value {
+    width: 400px;
+    color: rgba(6, 6, 6, 1);
+    background-color: #fff;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+QPushButton#save_button {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 15px;
+    color: #000000;
+    background-color: #fff;
+}
+
+QPushButton#save_button:hover {
+    width: 210px;
+    height: 55px;
+    font-size: 22px;
+    border-radius: 15px;
+    color: #000000;
+    background-color: rgba(79, 39, 193, 1);
+}

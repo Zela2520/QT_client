@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>my_static/img/icon.png</file>
+        <file>my_static/img/Шаблон.png</file>
+        <file>my_static/img/login_icon.svg</file>
+        <file>my_static/img/bubble_background.png</file>
+        <file>my_static/img/avatar_luffy.png</file>
+        <file>my_static/img/bluecircle.svg</file>
+        <file>my_static/img/detelefriendicon.svg</file>
+        <file>my_static/img/detelefriendiconhover.svg</file>
+        <file>my_static/img/logininputicon.svg</file>
+        <file>my_static/img/orangecircle.svg</file>
+        <file>my_static/img/passwordinputicon.svg</file>
+        <file>my_static/img/save.svg</file>
+        <file>my_static/img/savehover.svg</file>
+        <file>my_static/img/small_elipse.svg</file>
+    </qresource>
+    <qresource prefix="/css">
+        <file>my_static/css/style.css</file>
+    </qresource>
+</RCC>
